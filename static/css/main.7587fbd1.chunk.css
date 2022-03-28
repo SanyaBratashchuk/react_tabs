@@ -1,0 +1,2 @@
+.tabs{display:flex;flex-direction:column;align-items:center;width:-webkit-max-content;width:max-content}.tabs__list{list-style:none;padding:0 0 5px;margin:10px;display:flex}.tabs__button{width:80px;height:50px;background-color:#000;color:#fff;border:none}.tabs__button--selected{color:green;-webkit-transform:scale(1.03);transform:scale(1.03)}.tabs__content{height:100px;width:100%;text-align:center;line-height:100px;display:block;border-top:1px solid #000;border-bottom:1px solid #000;margin:0}
+/*# sourceMappingURL=main.7587fbd1.chunk.css.map */
